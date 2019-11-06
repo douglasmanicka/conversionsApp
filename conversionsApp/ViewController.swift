@@ -155,18 +155,3 @@ class ViewController: UIViewController {
 
 
 }
-
-<img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen1.png"  width="350" />
-    <img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen2.png"  width="350" />
-        <img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen3.png"  width="350" />
-            <img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen4.png"  width="350" />
-                <img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen5.png"  width="350" />
-                    <img src="https://github.com/douglasmanicka/conversionsApp/blob/master/conversionsApp/screenshots/screen6.png"  width="350" />
-
-
-                        <span><img src="/conversionsApp/screenshots/screen1.png" width="350"/>
-<img src="/conversionsApp/screenshots/screen2.png" width="350"/>
-<img src="/conversionsApp/screenshots/screen3.png" width="350"/>
-<img src="/conversionsApp/screenshots/screen4.png" width="350"/>
-<img src="/conversionsApp/screenshots/screen5.png" width="350"/>
-<img src="/conversionsApp/screenshots/screen6.png" width="350"/></span>
