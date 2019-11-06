@@ -12,12 +12,6 @@
 		081463FA2371F3F500F5CF65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 081463F82371F3F500F5CF65 /* Main.storyboard */; };
 		081463FC2371F3F600F5CF65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 081463FB2371F3F600F5CF65 /* Assets.xcassets */; };
 		081463FF2371F3F600F5CF65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 081463FD2371F3F600F5CF65 /* LaunchScreen.storyboard */; };
-		0814640D2373509F00F5CF65 /* screen4.png in Resources */ = {isa = PBXBuildFile; fileRef = 081464072373509E00F5CF65 /* screen4.png */; };
-		0814640E2373509F00F5CF65 /* screen2.png in Resources */ = {isa = PBXBuildFile; fileRef = 081464082373509E00F5CF65 /* screen2.png */; };
-		0814640F2373509F00F5CF65 /* screen5.png in Resources */ = {isa = PBXBuildFile; fileRef = 081464092373509E00F5CF65 /* screen5.png */; };
-		081464102373509F00F5CF65 /* screen3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0814640A2373509E00F5CF65 /* screen3.png */; };
-		081464112373509F00F5CF65 /* screen6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0814640B2373509E00F5CF65 /* screen6.png */; };
-		081464122373509F00F5CF65 /* screen1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0814640C2373509E00F5CF65 /* screen1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,12 +22,6 @@
 		081463FB2371F3F600F5CF65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		081463FE2371F3F600F5CF65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		081464002371F3F600F5CF65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		081464072373509E00F5CF65 /* screen4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen4.png; sourceTree = "<group>"; };
-		081464082373509E00F5CF65 /* screen2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen2.png; sourceTree = "<group>"; };
-		081464092373509E00F5CF65 /* screen5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen5.png; sourceTree = "<group>"; };
-		0814640A2373509E00F5CF65 /* screen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen3.png; sourceTree = "<group>"; };
-		0814640B2373509E00F5CF65 /* screen6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen6.png; sourceTree = "<group>"; };
-		0814640C2373509E00F5CF65 /* screen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +54,6 @@
 		081463F32371F3F500F5CF65 /* conversionsApp */ = {
 			isa = PBXGroup;
 			children = (
-				081464062373508B00F5CF65 /* screenshots */,
 				081463F42371F3F500F5CF65 /* AppDelegate.swift */,
 				081463F62371F3F500F5CF65 /* ViewController.swift */,
 				081463F82371F3F500F5CF65 /* Main.storyboard */,
@@ -75,19 +62,6 @@
 				081464002371F3F600F5CF65 /* Info.plist */,
 			);
 			path = conversionsApp;
-			sourceTree = "<group>";
-		};
-		081464062373508B00F5CF65 /* screenshots */ = {
-			isa = PBXGroup;
-			children = (
-				0814640C2373509E00F5CF65 /* screen1.png */,
-				081464082373509E00F5CF65 /* screen2.png */,
-				0814640A2373509E00F5CF65 /* screen3.png */,
-				081464072373509E00F5CF65 /* screen4.png */,
-				081464092373509E00F5CF65 /* screen5.png */,
-				0814640B2373509E00F5CF65 /* screen6.png */,
-			);
-			path = screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -148,14 +122,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				081464102373509F00F5CF65 /* screen3.png in Resources */,
 				081463FF2371F3F600F5CF65 /* LaunchScreen.storyboard in Resources */,
-				0814640F2373509F00F5CF65 /* screen5.png in Resources */,
 				081463FC2371F3F600F5CF65 /* Assets.xcassets in Resources */,
-				081464112373509F00F5CF65 /* screen6.png in Resources */,
-				0814640E2373509F00F5CF65 /* screen2.png in Resources */,
-				0814640D2373509F00F5CF65 /* screen4.png in Resources */,
-				081464122373509F00F5CF65 /* screen1.png in Resources */,
 				081463FA2371F3F500F5CF65 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
